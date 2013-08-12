@@ -30,7 +30,7 @@ Once your pricing table configured in the database or backend, you can generate 
 
 You can easily implemente a CRUD management in your backend, i have make helper function for manage collection, in the package (classes/helper.php).
 
-If you want, you can use or take example on my backend specially create for this package, it's a module called 'pricingtable' (link github)
+If you want, you can use or take example on my backend specially create for this package, it's a module called 'pricingtable' (https://github.com/jhuriez/fuel-pricingtable-module)
 
 Here some screen, it's based on Twitter bootstrap 3, and jQuery UI for the sortable function :
 
